@@ -142,7 +142,7 @@ To customize this template, you can either make changes directly or backport cha
 2. Make changes within the new project.
 3. Once you've completed your changes, you'll need to copy them over to the original project template, making sure to:
 
-   3.1. Replace occurrences of `myproject` with `{{ project_name }}`
+   3.1. Replace occurrences of `myproject` with `insightknight_wagtail`
 
    3.2. Rename the project directory from `myproject` to `project_name` (without double curly brackets this time).
 
